@@ -1,0 +1,1 @@
+outputs/alpha_bats_macro.png
